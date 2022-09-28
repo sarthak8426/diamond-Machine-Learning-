@@ -1,1 +1,1 @@
-# diamond-Machine-Learning-
+# Diamond-Machine-Learning-
